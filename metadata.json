@@ -1,0 +1,6 @@
+{
+  "name": "PSD Corrupted File Recovery",
+  "description": "Offline diagnostic and recovery tool for damaged Photoshop (PSD) files. Reconstructs layers, repairs binary signatures, decodes masks, and exports repaired PSD files directly in your browser with 100% privacy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
