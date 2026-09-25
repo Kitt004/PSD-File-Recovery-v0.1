@@ -6,9 +6,10 @@ Focusing on my forensic hobby, I decided to try developing some tools for file r
 
 It's fully local, nothing is exposed online or needs any online tools/features.
 
-**DISCLAIMER**
 
-It's not a 100% success recovery tool, but it worked on a 70% of the cases I've tried to recover a file.
+***DISCLAIMER***
+
+*It's not a 100% success recovery tool, but it worked on a 70% of the cases I've tried to recover a file.
 
 # Installatioan & Run Locally
 
