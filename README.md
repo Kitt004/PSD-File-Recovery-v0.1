@@ -1,4 +1,14 @@
-# Run Locally
+# Introduction
+Sometimes, recover files that have been deleted from the SSD/HDD could be potentialy broken or missing metadata for the system to read them correctly, leading to a potential broken file with no option to open or read whats insie...
+
+Focusing on my forensic hobby, I decided to try developing some tools for file recovery, in this case focused on PSD files.
+
+It's fully local, nothing is exposed online or needs any online tools/features.
+
+**DISCLAIMER**
+It's not a 100% success recovery tool, but it worked on a 70% of the cases I've tried to recover a file.
+
+# Installatioan & Run Locally
 
 **Prerequisites:**  Node.js
 
